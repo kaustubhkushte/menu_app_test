@@ -23,14 +23,14 @@
 		48FE0ECE146248E7006717D0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		48FE0ED0146248E7006717D0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		48FE0ED2146248E7006717D0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		48FE0ED6146248E7006717D0 /* menuapptest-Info.plist */ = {isa = PBXFileReference; path = "menuapptest-Info.plist"; sourceTree = "<group>"; };
+		48FE0ED6146248E7006717D0 /* menuapptest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "menuapptest-Info.plist"; sourceTree = "<group>"; };
 		48FE0ED8146248E7006717D0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		48FE0EDA146248E7006717D0 /* menuapptest-Prefix.pch */ = {isa = PBXFileReference; path = "menuapptest-Prefix.pch"; sourceTree = "<group>"; };
+		48FE0EDA146248E7006717D0 /* menuapptest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "menuapptest-Prefix.pch"; sourceTree = "<group>"; };
 		48FE0EDB146248E7006717D0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		48FE0EDD146248E7006717D0 /* menuapptestAppDelegate.h */ = {isa = PBXFileReference; path = menuapptestAppDelegate.h; sourceTree = "<group>"; };
+		48FE0EDD146248E7006717D0 /* menuapptestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = menuapptestAppDelegate.h; sourceTree = "<group>"; };
 		48FE0EDE146248E7006717D0 /* menuapptestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = menuapptestAppDelegate.m; sourceTree = "<group>"; };
 		48FE0EE1146248E7006717D0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		48FE0EE3146248E7006717D0 /* menuapptestViewController.h */ = {isa = PBXFileReference; path = menuapptestViewController.h; sourceTree = "<group>"; };
+		48FE0EE3146248E7006717D0 /* menuapptestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = menuapptestViewController.h; sourceTree = "<group>"; };
 		48FE0EE4146248E7006717D0 /* menuapptestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = menuapptestViewController.m; sourceTree = "<group>"; };
 		48FE0EE7146248E7006717D0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/menuapptestViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
